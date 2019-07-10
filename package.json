@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/duhanbalci/confBase.git",
   "author": "Duhan BALCI",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "httpdispatcher": "^2.1.2",
+    "lokijs": "^1.5.6",
+    "lowdb": "^1.0.0",
+    "nedb": "^1.8.0",
+    "uuid": "^3.3.2"
+  }
 }
