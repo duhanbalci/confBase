@@ -1,0 +1,9 @@
+{
+  "name": "confBase",
+  "version": "1.0.0",
+  "description": "confBase is a configuration database for users saving apps configuration",
+  "main": "index.js",
+  "repository": "https://github.com/duhanbalci/confBase.git",
+  "author": "Duhan BALCI",
+  "license": "MIT"
+}
